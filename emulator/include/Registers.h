@@ -1,5 +1,4 @@
-
-/* RetroDebugger
+/* 65C02 Emulator
  * Copyright (C) 2022 Alexander Ulmer <alex@gurdinet.at>
  *
  * This program is free software: you can redistribute it and/or modify
