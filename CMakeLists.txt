@@ -18,6 +18,8 @@ add_library(emulator STATIC
 target_include_directories(emulator PRIVATE
     ${CMAKE_CURRENT_SOURCE_DIR}/include
 )
+set(EMULATOR_INCLUDE_DIR ${CMAKE_CURRENT_SOURCE_DIR}/include PARENT_SCOPE)
 
 # required for build with cargo
 # install(TARGETS emulator DESTINATION .)
+
