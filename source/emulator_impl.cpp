@@ -19,7 +19,7 @@
  * Copyright (c) 2011 Mike Chambers <miker00lz@gmail.com> 
  */
 
-#include "include/Emulator.h"
+#include "Emulator.h"
 #include "emulator_impl.h"
 #include "opcode_table.h"
 

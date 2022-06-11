@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include "include/Emulator.h"
+#include "Emulator.h"
 #include "emulator_impl.h"
 
 using namespace em;
